@@ -1,3 +1,5 @@
+### This project has been archived. I will not be providing support and there will be no further updates or bug fixes.
+
 # Windows 7 simple
 This is essentially the same as [my other Windows 7 skin](https://github.com/EJSnow/Windows-7-skin), but it has fewer options and is smaller in size (600 KB vs 1.3 MB). For those who don't like a lot of skin options.
 ## Installation
@@ -9,5 +11,3 @@ This is essentially the same as [my other Windows 7 skin](https://github.com/EJS
 
 ## Notes
 The skin should work fully as intended. If you do come across an issue, make sure to report it [here](https://github.com/EJSnow/Windows-7-simple/issues) and I'll look into it and fix it if necessary. Before reporting an issue, ALWAYS check if the issue is present on other skins as well. If it's not just an issue with my skin, then you should report an issue for [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu/issues) instead.
-## License
-See [here](https://github.com/EJSnow/Windows-7-skin#what-you-can-do-with-this)
